@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Generated data
+backend/data/production_data.csv
+dataset_generator/production_data.csv
+production_data.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
